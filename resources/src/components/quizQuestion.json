@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Who is considered the greatest football player of all time?",
+        "optionA": "Lionel Messi",
+        "optionB": "Cristiano Ronaldo",
+        "optionC": "Pele",
+        "optionD": "Diego Maradona",
+        "answer": "Cristiano Ronaldo"
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "optionA": "France",
+        "optionB": "Brazil",
+        "optionC": "Germany",
+        "optionD": "Spain",
+        "answer": "France"
+    },
+    {
+        "question": "In which year did Lionel Messi win his first Ballon d'Or?",
+        "optionA": "2008",
+        "optionB": "2010",
+        "optionC": "2012",
+        "optionD": "2015",
+        "answer": "2009"
+    },
+    {
+        "question": "Which football club has won the most UEFA Champions League titles?",
+        "optionA": "Barcelona",
+        "optionB": "Real Madrid",
+        "optionC": "Bayern Munich",
+        "optionD": "AC Milan",
+        "answer": "Real Madrid"
+    },
+    {
+        "question": "Who is the all-time top scorer in the English Premier League?",
+        "optionA": "Thierry Henry",
+        "optionB": "Alan Shearer",
+        "optionC": "Wayne Rooney",
+        "optionD": "Andy Cole",
+        "answer": "Alan Shearer"
+    },
+    {
+        "question": "Which player is known as the 'Egyptian King'?",
+        "optionA": "Mohamed Salah",
+        "optionB": "Sadio Mane",
+        "optionC": "Mohamed Elneny",
+        "optionD": "Ahmed Hegazi",
+        "answer": "Mohamed Salah"
+    },
+    {
+        "question": "Who won the FIFA Women's World Cup in 2019?",
+        "optionA": "United States",
+        "optionB": "Netherlands",
+        "optionC": "Sweden",
+        "optionD": "England",
+        "answer": "United States"
+    },
+    {
+        "question": "Which stadium is known as the 'Theatre of Dreams'?",
+        "optionA": "Camp Nou",
+        "optionB": "Old Trafford",
+        "optionC": "Anfield",
+        "optionD": "Santiago Bernabeu",
+        "answer": "Old Trafford"
+    },
+    {
+        "question": "In which country did the Copa America 2021 take place?",
+        "optionA": "Argentina",
+        "optionB": "Brazil",
+        "optionC": "Chile",
+        "optionD": "Colombia",
+        "answer": "Brazil"
+    },
+    {
+        "question": "Who is the manager of Liverpool FC as of 2022?",
+        "optionA": "Jurgen Klopp",
+        "optionB": "Pep Guardiola",
+        "optionC": "Thomas Tuchel",
+        "optionD": "Zinedine Zidane",
+        "answer": "Jurgen Klopp"
+    },
+    {
+        "question": "Which player is known for his famous 'Panenka' penalty kick?",
+        "optionA": "Andrea Pirlo",
+        "optionB": "Zinedine Zidane",
+        "optionC": "Antonin Panenka",
+        "optionD": "Roberto Baggio",
+        "answer": "Antonin Panenka"
+    },
+    {
+        "question": "Which club has won the most English Premier League titles?",
+        "optionA": "Manchester United",
+        "optionB": "Liverpool",
+        "optionC": "Manchester City",
+        "optionD": "Arsenal",
+        "answer": "Manchester United"
+    },
+    {
+        "question": "Who won the Golden Ball for the best player in the 2014 FIFA World Cup?",
+        "optionA": "Lionel Messi",
+        "optionB": "James Rodriguez",
+        "optionC": "Thomas Muller",
+        "optionD": "Cristiano Ronaldo",
+        "answer": "James Rodriguez"
+    },
+    {
+        "question": "In which year did the 'Hand of God' incident happen in the World Cup?",
+        "optionA": "1982",
+        "optionB": "1986",
+        "optionC": "1990",
+        "optionD": "1994",
+        "answer": "1986"
+    },
+    {
+        "question": "Who is the captain of the Brazilian national football team as of 2022?",
+        "optionA": "Neymar Jr.",
+        "optionB": "Casemiro",
+        "optionC": "Thiago Silva",
+        "optionD": "Marquinhos",
+        "answer": "Neymar Jr."
+    }
+]
