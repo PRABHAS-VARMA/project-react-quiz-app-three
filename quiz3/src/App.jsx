@@ -8,9 +8,9 @@ export default class App extends Component {
   render() {
     return (
       <Routes>
-        <Route path="/" element={<HomeComponent />} />
-        <Route path="/play-quiz" element={<QuizComponent />} />
-        <Route path="/finish-quiz" element={<ResultComponent />} />
+        <Route path="/project-react-quiz-app-three" element={<HomeComponent />} />
+        <Route path="/project-react-quiz-app-three/play-quiz" element={<QuizComponent />} />
+        <Route path="finish-quiz" element={<ResultComponent />} />
       </Routes>
     );
   }
